@@ -1,3 +1,5 @@
+//server
+
 import express from 'express';
 import db from "mongoose";
 import router from './routes/routes';
